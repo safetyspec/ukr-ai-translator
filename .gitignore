@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Working files
+/tmp/
+/scratch/
+*.draft.md
+
+# Local notes that shouldn't be public
+NOTES.md
+PRIVATE.md
+TODO.md
